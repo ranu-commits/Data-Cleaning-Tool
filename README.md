@@ -5,4 +5,4 @@ The Data Cleaning Tool is a Streamlit app that helps users clean and preprocess 
 # How to Run
 step 1: pip install streamlit
 step 2: change directory (cd folder_name)
-step 2: streamlit run app.py(filename)
+step 3: streamlit run app.py(filename)
